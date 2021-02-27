@@ -1,0 +1,1 @@
+# fullcycle2-projeto-pipeline-ci-sonarcloud
